@@ -105,7 +105,7 @@ all_lines = (
 )
 
 
-text_input = "kenlm-input.txt"
+text_input = "kenlm-iknput.txt"
 kenlm_path = "/tmp/kenlm/build/bin/"
 lm_output_path = "lm.arpa"
 
